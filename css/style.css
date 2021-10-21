@@ -1,3 +1,8 @@
 h1 {
   border: solid 1px black;
 }
+
+p {
+  font-weight: bold;
+  background-color: #ccc;
+}
